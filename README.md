@@ -1,6 +1,6 @@
 # Snakes-Ladders
 
-I created the program using a template provided by my teacher that was jumbled and had pieces missing.
+I created the program by translating a Java implementation code of Snakes and Ladders into a Ruby implementation.
 
 This is a Ruby program that runs a Snake & Ladders game against the computer.
 All dice rolls are random and there is no strategy.
